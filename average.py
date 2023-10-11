@@ -1,5 +1,5 @@
 # Author: Kyle Davis
-# Github username: Kyolite
+# GitHub username: Kyolite
 # Date: 10/11/2023
 # Description: Asks the user to input five numbers and prints the average of those numbers.
 
